@@ -1,5 +1,7 @@
 # Discriminative Filters for Depth from Defocus
 
+[Paper and Poster](http://cim.mcgill.ca/~fmannan/FiltersDFD.html)
+
 Depth from defocus (DFD) requires estimating the depth dependent defocus blur at every pixel. Several approaches for accomplishing this have been proposed over the years. For a pair of images this is done by modeling the defocus relationship between the two differently defocused images and for single defocused images by relying on the the properties of the point spread function and the characteristics of the latent sharp image. We propose depth discriminative filters for DFD that can represent many of the widely used models such as the relative blur, Blur Equalization Technique, deconvolution based depth estimation, and subspace projection methods. We show that by optimizing the parameters of this general model we can obtain state-of-the-art result on synthetic and real defocused images with single or multiple defocused images with different apertures.
 
 
