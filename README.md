@@ -6,7 +6,7 @@ Depth from defocus (DFD) requires estimating the depth dependent defocus blur at
 This is a version of the code used in the following publication:
 
 ```
-F Mannan, M S Langer, Discriminative Filters for Depth from Defocus, 3D Vision (3DV), 2016 Fourth International Conference on, 592-600
+F Mannan, M S Langer, Discriminative Filters for Depth from Defocus, 3D Vision (3DV), 2016.
 ```
 
 If you use the code in your work then please cite:
